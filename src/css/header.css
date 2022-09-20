@@ -1,0 +1,22 @@
+h3{
+    
+    color: rgb(78, 141, 228);
+    
+    margin-top: 0;
+    display: inline-block;  
+      
+}
+.headerP{
+    padding:30px;
+    background-color: rgba(37, 36, 36, 0.995);
+    margin:20px;
+    border-radius: 3px;
+}
+button{
+    margin-left:70%;
+    color:rgb(57, 93, 169);
+    background-color: rgba(37, 36, 36, 0.995);
+    border: 2px solid rgb(57, 93, 169);
+    padding: 5px;
+    cursor: pointer;
+}

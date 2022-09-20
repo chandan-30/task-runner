@@ -1,0 +1,21 @@
+.Tdiv{
+    padding:30px;
+    background-color: rgba(37, 36, 36, 0.995);
+    margin:20px;
+    border-radius: 3px;
+}
+
+p{
+    background-color: rgb(156, 172, 216);
+    color: black;
+    padding:5px;
+    border-radius: 5px;
+    border-left: 5px solid rgb(41, 110, 206);
+}
+p span {
+    float: right;
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: -15px;
+}
